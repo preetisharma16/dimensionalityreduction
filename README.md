@@ -1,1 +1,1 @@
-# dimensionality reduction Assignment
+# Dimensionality Reduction Assignment
